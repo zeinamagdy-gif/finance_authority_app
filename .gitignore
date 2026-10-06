@@ -1,0 +1,9 @@
+@"
+venv/
+.venv/
+__pycache__/
+.idea/
+.env
+*.db
+.ipynb_checkpoints/
+"@ | Set-Content .gitignore
